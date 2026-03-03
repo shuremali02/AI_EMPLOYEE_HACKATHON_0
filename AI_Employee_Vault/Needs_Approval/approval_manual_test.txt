@@ -1,3 +1,0 @@
-ACTION: linkedin_post
-STATUS: PENDING
-INSTRUCTIONS: Write 'APPROVED' or 'REJECTED' in this file to respond.
